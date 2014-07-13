@@ -1,0 +1,23 @@
+{
+  "name": "directory-mirror",
+  "version": "0.0.0",
+  "description": "mirror 1 directory to another",
+  "main": "mirror.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/gmturbo/mirror.gir"
+  },
+  "keywords": [
+    "watcher",
+    "helper"
+  ],
+  "author": "gmturbo",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^0.2.0",
+    "node-watch": "^0.3.4"
+  }
+}
